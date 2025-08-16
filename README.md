@@ -17,4 +17,4 @@ Data is licensed under a
 
 
 ## Suggested Citation
-Gemma Ball. 2025. Research use in National Biodiversity Strategy and Action Plans differ significantly between lower and higher income countries Dataset.
+Gemma Ball. 2025. Research use in National Biodiversity Strategy and Action Plans differ significantly between lower and higher income countries Dataset. Available atL https://github.com/gballresearch/NBSAP-thesis. 
